@@ -7,6 +7,8 @@
  * # CompleteAssignment
  * Factory in the classTracApp.
  */
+ Parse.initialize("7v0Je2tjjrCEEK9ptZl0ol6NFTF7gOQybSJl0UqS", "hpSly2y7RIf6z9K3a7ahJjdqzFlK8UvWyHgI1NJC");
+
 angular.module('classTracApp')
   .factory('CompleteAssignment', function () {
     // Service logic
